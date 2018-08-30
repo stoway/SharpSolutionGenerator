@@ -1,0 +1,7 @@
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\bin\Debug\Stoway.SharpSolutionGenerator.exe.config
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\bin\Debug\Stoway.SharpSolutionGenerator.exe
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\bin\Debug\Stoway.SharpSolutionGenerator.pdb
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\obj\Debug\Stoway.SharpSolutionGenerator.csprojResolveAssemblyReference.cache
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\obj\Debug\Stoway.SharpSolutionGenerator.exe
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\obj\Debug\Stoway.SharpSolutionGenerator.pdb
+C:\Users\xiaguangze\个人\我的项目\stoway\GitHub\repositories\Stoway.SharpSolutionGenerator\Stoway.SharpSolutionGenerator\bin\Debug\Template\Readme.txt
