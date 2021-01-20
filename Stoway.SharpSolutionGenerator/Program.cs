@@ -42,7 +42,7 @@ namespace Stoway.SharpSolutionGenerator
         static void BuildSolution(string solutionName)
         {
             string templateFolder = "Template";
-            string solutionFolder = string.Format("{0}.Mvc", solutionName);
+            string solutionFolder = string.Format("{0}", solutionName);
 
             if (Directory.Exists(solutionFolder))
             {
@@ -83,7 +83,7 @@ namespace Stoway.SharpSolutionGenerator
         static void ContentReplace(string filePath, string solutionName)
         {
             FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read);
-            StreamReader sr = new StreamReader(fs);
+            StreamReader sr = new StreamReader(fs, Encoding.UTF8);
             var content = sr.ReadToEnd();
             content = content.Replace(Template_SolutionName, solutionName);
             fs.Flush();
